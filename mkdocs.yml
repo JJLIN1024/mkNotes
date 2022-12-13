@@ -1,0 +1,6 @@
+site_name: Jimmy Lin's Note
+site_url: https://jjlin1024.github.io/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
